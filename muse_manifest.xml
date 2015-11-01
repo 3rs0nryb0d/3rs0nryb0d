@@ -1,0 +1,70 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="RAAR.fr" resolutions="1x" timestamp="1446402388329">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="226502248" ref="index"/>
+    <file name="raar_rtf.css" crc="320521527" ref="raar.rtf"/>
+    <file name="visual_png.css" crc="242669063" ref="visual.png"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>raar.rtf:phone>visual.png:tablet>index:tablet>raar.rtf:tablet>visual.png:index:raar.rtf:visual.png"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>raar.rtf:phone>visual.png:tablet>index:tablet>raar.rtf:tablet>visual.png:index:raar.rtf:visual.png"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:phone>raar.rtf:phone>visual.png:tablet>index:tablet>raar.rtf:tablet>visual.png:index:raar.rtf:visual.png"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>raar.rtf:phone>visual.png:tablet>index:tablet>raar.rtf:tablet>visual.png:index:raar.rtf:visual.png"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>raar.rtf:tablet>visual.png:index:raar.rtf:visual.png"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.gif" crc="312500901" ref="phone>index:phone>raar.rtf:phone>visual.png:tablet>index:tablet>raar.rtf:tablet>visual.png:index:raar.rtf:visual.png"/>
+    <file name="image collée 512 x 512-u550.png" crc="4147296259" ref="phone>index"/>
+    <file name="image collée 512 x 512-u552.png" crc="3989374175" ref="phone>index"/>
+    <file name="image collée 512 x 512-u548.png" crc="4147296259" ref="phone>index"/>
+    <file name="screen shot 2015-10-25 at 191036.jpg" crc="4032276197" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="image collée 512 x 512-u565.png" crc="481618571" ref="phone>index"/>
+    <file name="image collée 512 x 512-u568.png" crc="3782946532" ref="phone>index"/>
+    <file name="image collée 512 x 512-u570.png" crc="3782946532" ref="phone>index"/>
+    <file name="image collée 512 x 512-u561.png" crc="486642012" ref="phone>index"/>
+    <file name="screen shot 2015-10-20 at 231443.jpg" crc="181032138" seo="true" ref="phone>raar.rtf:tablet>raar.rtf:raar.rtf"/>
+    <file name="raar001292x292.jpg" crc="202019345" seo="true" ref="phone>raar.rtf"/>
+    <file name="raar logo350x297.jpg" crc="4113605449" seo="true" ref="phone>visual.png"/>
+    <file name="image collée 512 x 512-u476.png" crc="4147296259" ref="tablet>index"/>
+    <file name="image collée 512 x 512-u478.png" crc="3989374175" ref="tablet>index"/>
+    <file name="image collée 512 x 512-u474.png" crc="4147296259" ref="tablet>index"/>
+    <file name="u480-4.png" crc="164191521" ref="tablet>index"/>
+    <file name="image collée 512 x 512-u494.png" crc="3782946532" ref="tablet>index"/>
+    <file name="image collée 512 x 512-u496.png" crc="3782946532" ref="tablet>index"/>
+    <file name="image collée 512 x 512-u491.png" crc="481618571" ref="tablet>index"/>
+    <file name="image collée 512 x 512-u487.png" crc="486642012" ref="tablet>index"/>
+    <file name="raar001.jpg" crc="225336483" seo="true" ref="tablet>raar.rtf:raar.rtf"/>
+    <file name="raar logo.jpg" crc="357113216" seo="true" ref="tablet>visual.png:visual.png"/>
+    <file name="favicon.ico" crc="240052763" ref="index"/>
+    <file name="image collée 512 x 512-u130.png" crc="4147296259" ref="index"/>
+    <file name="image collée 512 x 512-u462.png" crc="3782946532" ref="index"/>
+    <file name="image collée 512 x 512-u469.png" crc="3782946532" ref="index"/>
+    <file name="image collée 512 x 512-u104.png" crc="486642012" ref="index"/>
+    <file name="image collée 512 x 512-u88.png" crc="3989374175" ref="index"/>
+    <file name="image collée 512 x 512-u82.png" crc="4147296259" ref="index"/>
+    <file name="image collée 512 x 512-u94.png" crc="481618571" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="raar_rtf.css" crc="3920278864" ref="tablet>raar.rtf"/>
+      <file name="visual_png.css" crc="124550626" ref="tablet>visual.png"/>
+      <file name="index.css" crc="277510368" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3918473288" seo="true" mt="1446402351367" redirect="true"/>
+    <file name="raar.rtf.html" crc="4259235209" seo="true" mt="1446401609466" redirect="true"/>
+    <file name="visual.png.html" crc="75715989" seo="true" mt="1446401639850" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="visual_png.css" crc="3946461578" ref="phone>visual.png"/>
+      <file name="raar_rtf.css" crc="355491673" ref="phone>raar.rtf"/>
+      <file name="index.css" crc="79838515" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="136610733" seo="true" mt="1446402359375" redirect="true"/>
+    <file name="raar.rtf.html" crc="53787919" seo="true" mt="1446401861655" redirect="true"/>
+    <file name="visual.png.html" crc="378281530" seo="true" mt="1446401919865" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3854059124" seo="true" mt="1446402343998" redirect="true"/>
+  <file name="raar.rtf.html" crc="3798728956" seo="true" mt="1446401569230" redirect="true"/>
+  <file name="visual.png.html" crc="498612435" seo="true" mt="1446401627470" redirect="true"/>
+</manifest>

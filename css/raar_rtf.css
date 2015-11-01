@@ -1,0 +1,99 @@
+.version.raar_rtf /* version checker */
+{
+	color: #000013;
+	background-color: #1AC537;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/bg.gif") no-repeat center center scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 621px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+}
+
+#u211
+{
+	z-index: 2;
+	width: 557px;
+	background-color: #FFFFFF;
+	padding-bottom: 1028px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 20px;
+}
+
+#u212
+{
+	z-index: 3;
+	width: 540px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 7px;
+}
+
+#u218-31
+{
+	z-index: 5;
+	width: 497px;
+	background-color: transparent;
+	font-size: 12px;
+	line-height: 14px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 245px;
+	left: 48px;
+}
+
+#u219
+{
+	z-index: 36;
+	width: 497px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 794px;
+	left: 48px;
+}
+
+#u219_img
+{
+	padding-right: 14px;
+}
+
+#u472-3
+{
+	z-index: 38;
+	width: 5px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 677px;
+	left: 48px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
